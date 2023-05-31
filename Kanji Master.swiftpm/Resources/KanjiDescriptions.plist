@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>daysLevel</key>
+	<dict>
+		<key>moonKanjiDescription</key>
+		<array>
+			<string>Moon Kanji (月)</string>
+			<string>月 (tsuki or getsu in Japanese) is the kanji character for &quot;moon&quot; and is composed of two horizontal strokes and a curve.</string>
+			<string>The origin of the 月 character can be traced back to ancient Chinese pictograms, where it originally represented a crescent moon. Over time, the character evolved into its current form and became a symbol for the moon and lunar phases.</string>
+			<string>In Japanese, the word for Monday is 月曜日 (getsuyoubi), which literally means &quot;moon day&quot;. The character 月 represents the moon and is combined with the character 曜 (you), which means &quot;weekday&quot;, to form the word for Monday. This is part of a system of seven-day weeks that was introduced to Japan from China in the 6th century.</string>
+		</array>
+		<key>fireKanjiDescription</key>
+		<array>
+			<string>Fire Kanji (火)</string>
+			<string>火 (hi or ka in Japanese) is the kanji character for fire&quot; and is composed of three horizontal strokes, with the top and bottom strokes being longer than the middle one.</string>
+			<string>The origin of the 火 character can be traced back to ancient Chinese pictograms, where it originally represented a drawing of flames or burning wood. Over time, the character evolved into its current form and became a symbol for the element of fire.</string>
+			<string>In Japanese culture, the character 火 is used in various idiomatic expressions, such as &quot;burning with enthusiasm&quot; or &quot;set the world on fire&quot; to convey a sense of energy and excitement.</string>
+		</array>
+		<key>waterKanjiDescription</key>
+		<array>
+			<string>Water Kanji (水)</string>
+			<string>水 (mizu or sui in Japanese) is the kanji character for &quot;water&quot; and is composed of three horizontal strokes.</string>
+			<string>The origin of the 水 character can be traced back to ancient Chinese pictograms, where it originally represented a drawing of water. Over time, the character evolved into its current form and became a symbol for the element of water.</string>
+			<string>In Japanese, the word for Wednesday is 水曜日 (suiyoubi), which literally means &quot;water day.&quot; The character 水 represents the element of water and is combined with the character 曜 (you), which means &quot;weekday,&quot; to form the word for Wednesday. This is part of a system of seven-day weeks that was introduced to Japan from China in the 6th century.</string>
+		</array>
+		<key>treeKanjiDescription</key>
+		<array>
+			<string>Tree Kanji (木)</string>
+			<string>木 (ki or moku in Japanese) is the kanji character for &quot;tree&quot; or &quot;wood&quot; and is composed of two parts: a horizontal stroke at the top representing the tree trunk, and two or three vertical strokes at the bottom representing the branches and roots.</string>
+			<string>The origin of the 木 character can be traced back to ancient Chinese pictograms, where it originally represented a picture of a tree. Over time, the character evolved into its current form and became a symbol for the concepts of &quot;tree&quot; and &quot;wood.&quot;</string>
+			<string>In Japanese, the word for Thursday is 木曜日 (mokuyoubi), which literally means &quot;wood day.&quot; The character 木 represents the concept of wood and is combined with the character 曜 (you), which means &quot;weekday,&quot; to form the word for Thursday. This is part of a system of seven-day weeks that was introduced to Japan from China in the 6th century.</string>
+		</array>
+		<key>goldKanjiDescription</key>
+		<array>
+			<string>Gold Kanji (金)</string>
+			<string>金 (kin or kon in Japanese) is the kanji character for &quot;gold&quot; or &quot;metal&quot; and is composed of three horizontal lines with a shorter vertical line on the left side.</string>
+			<string>The origin of the 金 character can be traced back to ancient Chinese pictograms, where it originally represented a drawing of a precious metal or a precious object made from metal. Over time, the character evolved into its current form and became a symbol for the concepts of &quot;gold&quot; and &quot;metal.&quot;</string>
+			<string>In Japanese, the word for Friday is 金曜日 (kinyoubi), which literally means &quot;gold day.&quot; The character 金 represents the concept of gold and is combined with the character 曜 (you), which means &quot;weekday,&quot; to form the word for Friday. This is part of a system of seven-day weeks that was introduced to Japan from China in the 6th century.</string>
+		</array>
+		<key>dirtKanjiDescription</key>
+		<array>
+			<string>Dirt Kanji (土)</string>
+			<string>土 (tsuchi or do in Japanese) is the kanji character for &quot;soil,&quot; &quot;earth,&quot; or &quot;land&quot; and is composed of three horizontal lines with a shorter vertical line on the left side and a diagonal line from top-right to bottom-left.</string>
+			<string>The origin of the 土 character can be traced back to ancient Chinese pictograms, where it originally represented the image of a furrowed field or a piece of land with furrows. Over time, the character evolved into its current form and became a symbol for the concepts of &quot;soil,&quot; &quot;earth,&quot; and &quot;land.&quot;</string>
+			<string>In Japanese, the word for Saturday is 土曜日 (doyoubi), which literally means &quot;soil day.&quot; The character 土 represents the concept of soil and is combined with the character 曜 (you), which means &quot;weekday,&quot; to form the word for Saturday. This is part of a system of seven-day weeks that was introduced to Japan from China in the 6th century.</string>
+		</array>
+		<key>sunKanjiDescription</key>
+		<array>
+			<string>Sun Kanji (日)</string>
+			<string>日 (hi or nichi in Japanese) is the kanji character for &quot;sun&quot; or &quot;day&quot; and is composed of a horizontal line with a shorter vertical line on the left side.</string>
+			<string>The origin of the 日 character can be traced back to ancient Chinese pictograms, where it originally represented the image of a sun with a circle in the middle. Over time, the character evolved into its current form and became a symbol for the concepts of &quot;sun&quot; and &quot;day.&quot;</string>
+			<string>In Japanese, the word for Sunday is 日曜日 (nichiyoubi), which literally means &quot;sun day.&quot; The character 日 represents the concept of the sun and is combined with the character 曜 (you), which means &quot;weekday,&quot; to form the word for Sunday. This is part of a system of seven-day weeks that was introduced to Japan from China in the 6th century.</string>
+		</array>
+	</dict>
+	<key>numbersLevel</key>
+	<dict>
+		<key>tenKanjiDescription</key>
+		<array>
+			<string>Kanji for 10 (十)</string>
+			<string>The kanji 十 (jū) was first used in ancient Chinese script, where it was used to represent the number ten. Its earliest form was a pictogram of a cross, representing the four cardinal directions.</string>
+			<string>Over time, the cross evolved into a straight horizontal line and a straight vertical line, which symbolized the two sets of five fingers on a person&apos;s two hands. In Japanese, the kanji kept this meaning and became associated with counting and basic arithmetic.</string>
+			<string>In addition to its use as a number, the kanji 十 has symbolic meaning in various Eastern traditions, representing balance, harmony, and completion. This connection to the shape of the kanji is evident in its use in traditional feng shui practice, where the placement of ten symbols (often represented by 十) is believed to bring good luck and prosperity.</string>
+		</array>
+		<key>nineKanjiDescription</key>
+		<array>
+			<string>Kanji for 9 (九)</string>
+			<string>The kanji 九 (きゅう) represents the number nine in Japanese and is commonly used in numerals and counting systems. Its written form resembles the shape of the numeral &quot;9&quot; in Western languages, but its origins can be traced back to ancient Chinese characters.</string>
+			<string>In Chinese, the character for &quot;nine&quot; (九) is said to symbolize longevity and perfection, as it is the highest digit that doesn&apos;t repeat itself in the decimal system. It is also considered a lucky number and is often associated with good fortune and prosperity. These meanings have influenced how the kanji is perceived and used in Japanese culture as well.</string>
+			<string>The shape of the kanji 九 resembles a tilted square or rectangle, with an open top that suggests movement or growth. This shape is thought to reflect the idea of upward progress or advancement, as well as the concept of expansion and expansionism. Some interpretations also see the kanji as representing a bow or a scorpion&apos;s tail, which could further add to its symbolic significance.</string>
+		</array>
+		<key>eightKanjiDescription</key>
+		<array>
+			<string>Kanji for 8 (八)</string>
+			<string>The kanji 八 (hachi in Japanese) has an ancient origin and was originally a pictogram of two crossed lines, symbolizing a &quot;meeting&quot; or &quot;uniting&quot; of two things. Over time, the lines became more stylized and eventually transformed into the modern 八 shape.</string>
+			<string>The kanji 八 represents the number eight in Japanese and Chinese, and is considered a lucky number in both cultures. It is associated with prosperity, wealth, and success, as the character for &quot;fortune&quot; (福) in Japanese is pronounced &quot;fuku,&quot; which sounds similar to the word for eight (hachi) and is often depicted with eight legs.</string>
+			<string>The 八 shape is said to resemble the character for &quot;mouth&quot; (口) turned sideways, and is often associated with the opening or beginning of something new. This connection is reinforced by the fact that the kanji 八 is used to represent the eighth month of the year (August), which marks the start of autumn in Japan.</string>
+		</array>
+		<key>sevenKanjiDescription</key>
+		<array>
+			<string>Kanji for 7 (七)</string>
+			<string>The kanji character 七 has a long history of use throughout East Asia, dating back hundreds of years to the early Chinese dynasties. Originally, it was written with a more complex combination of strokes, but over time it evolved into the simpler form we recognize today.</string>
+			<string>In both Chinese and Japanese, the character 七 translates to the number &quot;seven.&quot; This is significant in many ways, as seven has been considered a lucky or auspicious number in various cultures throughout history. In particular, it is often associated with fullness, completeness, or perfection, as in the seven days of the week, the seven wonders of the world, or the biblical seven days of creation.</string>
+			<string>The shape of the kanji 七 is said to be related to its meaning. Some scholars have suggested that its straight diagonal stroke represents the numeral 1, while the remaining horizontal lines are grouped into sets of three, which can be thought of as representing the numbers 3 and 3. This creates the concept of fullness or completeness by combining the numbers 1, 3, and 3 to make a total of 7. Additionally, the overall shape of the character is often considered pleasing or balanced, reflecting the idea of perfection associated with the number 7.</string>
+		</array>
+		<key>sixKanjiDescription</key>
+		<array>
+			<string>Kanji for 6 (六)</string>
+			<string>The kanji 六 originated from ancient Chinese scripts dating back to the Western Zhou dynasty (c. 1046-771 BCE). It was originally written as a pictogram of a hand with five fingers plus an added line to represent the sixth finger.</string>
+			<string>The kanji 六 means &quot;six&quot; in Japanese, and is commonly used in counting and numbering systems. In Chinese, it also has an additional meaning of &quot;smooth&quot; or &quot;unobstructed.&quot;</string>
+			<string>The shape of the kanji 六 reflects its original pictogram of a hand with six fingers. The horizontal and vertical lines represent the palm and fingers, respectively, while the diagonal line represents the additional sixth finger. This visual connection between the shape and meaning of the kanji is a common characteristic of Chinese characters.</string>
+		</array>
+		<key>fiveKanjiDescription</key>
+		<array>
+			<string>Kanji for 5 (五)</string>
+			<string>The kanji 五 is a simple character that has been in use for over a thousand years in the written language of Japan and China.</string>
+			<string>In both cultures, 五 (pronounced &quot;go&quot; in Japanese and &quot;wu&quot; in Chinese) represents the number five, and is an important part of counting and numerical systems.</string>
+			<string>The shape of 五 is said to be based on the shape of a hand, with the horizontal line as the wrist and the four strokes above it representing the fingers. This connection to the human body gives the kanji a sense of accessibility and grounding.</string>
+		</array>
+		<key>fourKanjiDescription</key>
+		<array>
+			<string>Kanji for 4 (四)</string>
+			<string>The kanji 四 has a rich history in Japanese and Chinese culture, and dates back over 3,000 years.</string>
+			<string>The shape of the kanji 四 is said to derive from the pattern of the four corners of a square, which represents stability and balance.</string>
+			<string>四 holds great symbolic significance, representing the number four, which is considered an important and lucky number in many cultures, and is also associated with qualities such as completion, order and symmetry.</string>
+		</array>
+		<key>threeKanjiDescription</key>
+		<array>
+			<string>Kanji for 3 (三)</string>
+			<string>The kanji 三 is believed to have originated from ancient drawings of three horizontal lines, which represented a bundle of stalks tied together. This symbolized strength and unity in ancient Chinese culture.</string>
+			<string>The kanji 三 represents the number three in both Chinese and Japanese. In Eastern cultures, the number three has significant cultural and spiritual meanings, such as balance, harmony, and completeness. It is also associated with the three realms of existence: heaven, earth, and humanity.</string>
+			<string>The three lines of the kanji 三 are arranged in a symmetrical and balanced way, which reflects the harmony and balance that the number three represents in Eastern cultures. The vertical line in the center also indicates the connection between the heavens and the earth, and the horizontal lines symbolize the unity of humankind.</string>
+		</array>
+		<key>twoKanjiDescription</key>
+		<array>
+			<string>Kanji for 2 (二)</string>
+			<string>The kanji 二 has a long history, dating back to ancient China and Japan, where it was used to represent the number 2. In ancient Chinese scripts, the shape of the character resembled two horizontal lines, while the Japanese version featured a more rounded, cursive style.</string>
+			<string>The meaning of the kanji 二 is closely tied to its shape, which looks like two horizontal strokes or lines. This reinforces its association with the number 2, and makes it easy to recognize and remember when used in context.</string>
+			<string>Despite its simplicity, the kanji 二 is a powerful symbol of duality and balance, representing two complementary parts that come together to form a whole. This concept is present in many aspects of Japanese culture, such as the yin-yang symbol and the idea of harmonious relationships between people and nature.</string>
+		</array>
+		<key>oneKanjiDescription</key>
+		<array>
+			<string>Kanji for 1 (一)</string>
+			<string>The kanji 一 dates back to ancient China, where it originated as a pictographic representation of a single stroke, similar to a line or a stick.</string>
+			<string>In Japanese, the kanji 一 represents the number &quot;one&quot; and is often used as a counting symbol or a measure word for things that come in one unit.</string>
+			<string>The shape of the kanji 一 is a simple horizontal line that may symbolize unity, singularity, or a beginning point. It is considered one of the most basic and fundamental kanji, appearing frequently in many other characters and compound words.</string>
+		</array>
+	</dict>
+	<key>colorsLevel</key>
+	<dict>
+		<key>rainbowKanjiDescription</key>
+		<array>
+			<string>Rainbow (虹)</string>
+			<string>The kanji 虹 (niji) means &quot;rainbow&quot;.</string>
+			<string>It is composed of two parts: the top part represents &quot;sky&quot; or &quot;heaven&quot;, while the bottom part represents &quot;earth&quot; or &quot;soil&quot;. Together, they symbolize the connection between heaven and earth, and the balance and harmony between them.</string>
+			<string>In Japanese culture, the rainbow is often associated with good fortune, hope, and diversity. Each color of the rainbow has its own symbolic meaning, such as red for energy, orange for vitality, yellow for pleasure, green for peace, blue for intelligence, indigo for serenity, and violet for spirituality.</string>
+		</array>
+		<key>vermilionKanjiDescription</key>
+		<array>
+			<string>Vermilion (朱)</string>
+			<string>The kanji 朱 has been in use in Japan since ancient times, and its association with the color red can be traced back to the Chinese character from which it originated.</string>
+			<string>In Japanese culture, the color red has traditionally been associated with good fortune and prosperity, as well as power and vitality. This is reflected in the common use of red in traditional clothing, decorations, and other cultural expressions.</string>
+			<string>The kanji 朱 is often used to represent the color red in various contexts, including in names of colors, cosmetics, and dyes. Its meaning and symbolism continue to be deeply ingrained in Japanese culture, representing a long and rich history of traditions and beliefs surrounding the color red.</string>
+		</array>
+		<key>goldenKanjiDescription</key>
+		<array>
+			<string>Golden (金)</string>
+			<string>Kanji 金 has its roots in ancient Chinese script, where it represented the element of metal, as well as wealth and currency.</string>
+			<string>In Japan, the kanji took on similar meanings, becoming associated with money, fortune, and material possessions.</string>
+			<string>The color gold, which is often represented by the Japanese word kin (金), is closely linked to the kanji&apos;s meanings of wealth and prosperity, as well as nobility and excellence.</string>
+		</array>
+		<key>greenKanjiDescription</key>
+		<array>
+			<string>Green (緑)</string>
+			<string>The kanji 緑 has its origins in ancient Chinese calligraphy, where it was used to represent the color green and the concept of vegetation.</string>
+			<string>In Japanese culture, the color green has long been associated with nature, growth, and freshness, and is often used to symbolize things like youth, hope, and opportunity.</string>
+			<string>The kanji 緑 is frequently used in Japanese language to not only to refer to the color green, but also to express broader ideas related to nature and vitality, such as &quot;freshness&quot; or &quot;lushness.&quot;</string>
+		</array>
+		<key>blackKanjiDescription</key>
+		<array>
+			<string>Black (黒)</string>
+			<string>黒 is a Japanese Kanji that has been used since ancient times to refer to the colour black.</string>
+			<string>The origin of the kanji comes from pictograms representing the top of a head and something that is dark.</string>
+			<string>黒 is often associated with death, mystery and night, but it can also represent strength and power, and is used in various cultural and traditional ceremonies.</string>
+		</array>
+		<key>whiteKanjiDescription</key>
+		<array>
+			<string>White (白)</string>
+			<string>The Chinese character for &quot;white&quot; was adopted into the Japanese writing system over a thousand years ago, and its meaning has remained largely consistent with its original Chinese usage.</string>
+			<string>In Japanese culture, the color white is associated with purity, clarity, and emptiness, and it is often used in the context of religious and ceremonial practices.</string>
+			<string>The kanji 白 is frequently used in compound words to describe objects that are white or colorless, and it can also be used metaphorically to describe things that are pure, empty, or unmarked.</string>
+		</array>
+		<key>blueKanjiDescription</key>
+		<array>
+			<string>Blue (青)</string>
+			<string>The kanji 青 has been used in Japanese language for over 1,000 years to denote various shades of blue to green colors.</string>
+			<string>The meaning of 青 has evolved over time to represent not just a color, but also concepts such as youth, freshness, and vitality.</string>
+			<string>The use of 青 in traditional Japanese art, literature, and culture reflects its symbolic significance as a color that embodies both tranquility and dynamism.</string>
+		</array>
+		<key>redKanjiDescription</key>
+		<array>
+			<string>Red (赤)</string>
+			<string>The kanji 赤 originated from ancient Chinese characters and has been used in the Japanese language since the 5th century.</string>
+			<string>The character represents the color red, which has various cultural and symbolic meanings in Japanese society, including passion, auspiciousness, and warning.</string>
+			<string>In traditional Japanese arts and crafts such as kimono, lacquerware, and pottery, the use of 赤 has been a significant aesthetic element, reflecting the importance of color symbolism and the pursuit of beauty.</string>
+		</array>
+	</dict>
+</dict>
+</plist>
